@@ -1,17 +1,17 @@
 # Solana Workshops
 
 <img 
-src="../pics/usc.jpeg" 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/profile/usc.jpeg" 
 height="100"
 width="150"
 /> 
 <img 
-src="../pics/delhi.JPG" 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/profile/delhi.JPG" 
 height="100"
 width="150"
 /> 
 <img 
-src="../pics/usc2.jpg" 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/profile/usc2.jpg" 
 height="100"
 width="150"
 /> 
