@@ -17,6 +17,11 @@ src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/profile/usc
 height="100"
 width="150"
 /> 
+<img 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/profile/metacamp.jpeg" 
+height="100"
+width="150"
+/> 
    
 Browse all of the code and learn all about Solana development!   
    
