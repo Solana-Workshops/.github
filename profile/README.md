@@ -6,7 +6,7 @@ height="100"
 width="150"
 /> 
 <img 
-src="../pics/delhi.png" 
+src="../pics/delhi.jpg" 
 height="100"
 width="150"
 /> 
