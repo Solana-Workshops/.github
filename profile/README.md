@@ -33,8 +33,8 @@ You can find details in each workshop's `README.md` for lessons you can learn fr
 
 ---
 
-| Workshop | Description | Author |
-| -------- | ----------- | ------ |
+| <div style="width:150px">Workshop</div> | Description | <div style="width:150px">Author</div>  |
+| ---------------------- | ------------------------------- | :------------------------ |
 | [✏️ Getting Started with Solana 101](https://github.com/Solana-Workshops/solana-101) | A high-level presentation on Solana basics. | Colin Ogoo |
 | [🏎️ Solana for Beginners Crash Course](https://github.com/Solana-Workshops/beginner-crash-course) | A crash course for beginners. Covers basics such as transactions, accounts, tokens, and a HelloWorld smart contract (program). | Joe Caulfield |
 | [🎑 NFT Minter](https://github.com/Solana-Workshops/NFT-Minter) | A simple web page for uploading an image and minting it into an NFT. | Joe Caulfield |
