@@ -41,8 +41,9 @@ You can find details in each workshop's `README.md` for lessons you can learn fr
 | [🎆 SVG Generator](https://github.com/Solana-Workshops/SVG-Generator) | Rendering an SVG image from randomized strings stored in a Solana on-chain account. | Courtney Jensen & Joe Caulfield |
 | [📓 Solana Journal](https://github.com/Solana-Workshops/solana-journal) | A simple journal entry dApp writing entries to the Solana blockchain. | Joe Caulfield |
 | [🐦 Solana Twitter](https://github.com/Solana-Workshops/solana-twitter) | A mock Twitter social media site built on top of on-chain data. | Joe Caulfield |
+| [🪢 Tug of War](https://github.com/Solana-Workshops/tug-of-war) | A fun little game leveraging on-chain data. | Jonas Hahn |
 | [🪓 Battle Royale](https://github.com/Solana-Workshops/battle-royale) | A fun little game leveraging on-chain data. | Joe Caulfield |
 | [🍕 Building a Storefront with Solana Pay](https://github.com/Solana-Workshops/storefront-solana-pay) | A storefront dApp capable of taking payments of SPL tokens using the Solana Pay SDK and Transaction Requests | Joe Caulfield <br> Valentin Madrid |
 | [🪙 Token Lender](https://github.com/Solana-Workshops/token-lender) | Token swapping platform mimicing a DEX. | Joe Caulfield |
-| [☄️ Ship Your First xNFT](https://github.com/Solana-Workshops/ship-an-xnft) | Building an xNFT and deploying it to Backpack | Valentin Madrid |
+| [🎒 Ship Your First xNFT](https://github.com/Solana-Workshops/ship-an-xnft) | Building an xNFT and deploying it to Backpack | Valentin Madrid |
 
