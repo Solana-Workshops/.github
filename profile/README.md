@@ -38,7 +38,7 @@ You can find details in each workshop's `README.md` for lessons you can learn fr
 | [✏️ Getting Started with Solana 101](https://github.com/Solana-Workshops/solana-101) | A high-level presentation on Solana basics. | Colin Ogoo |
 | [🏎️ Solana for Beginners Crash Course](https://github.com/Solana-Workshops/beginner-crash-course) | A crash course for beginners. Covers basics such as transactions, accounts, tokens, and a HelloWorld smart contract (program). | Joe Caulfield |
 | [🎑 NFT Minter](https://github.com/Solana-Workshops/NFT-Minter) | A simple web page for uploading an image and minting it into an NFT. | Joe Caulfield |
-| [🎆 SVG Generator](https://github.com/Solana-Workshops/SVG-Generator) | Rendering an SVG image from randomized strings stored in a Solana on-chain account. | Courtney Jensen & Joe Caulfield |
+| [🎆 SVG Generator](https://github.com/Solana-Workshops/SVG-Generator) | Rendering an SVG image from randomized strings stored in a Solana on-chain account. | Joe Caulfield <br> Courtney Jensen |
 | [📓 Solana Journal](https://github.com/Solana-Workshops/solana-journal) | A simple journal entry dApp writing entries to the Solana blockchain. | Joe Caulfield |
 | [🐦 Solana Twitter](https://github.com/Solana-Workshops/solana-twitter) | A mock Twitter social media site built on top of on-chain data. | Joe Caulfield |
 | [🪢 Tug of War](https://github.com/Solana-Workshops/tug-of-war) | A fun little game leveraging on-chain data. | Jonas Hahn |
