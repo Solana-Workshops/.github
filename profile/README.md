@@ -3,12 +3,12 @@
 Hello fren, have you attended any of these workshops?   
 
 <img 
-src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/usc.jpeg" 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/valentin.png" 
 height="100"
 width="150"
 /> 
 <img 
-src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/delhi.JPG" 
+src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/callum.png" 
 height="100"
 width="150"
 /> 
