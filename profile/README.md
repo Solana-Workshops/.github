@@ -45,6 +45,7 @@ You can find details in each workshop's `README.md` for lessons you can learn fr
 | [🪢 Tug of War](https://github.com/Solana-Workshops/tug-of-war-solana-pay) | A tug of war game controlled via Solana Pay Qr codes. | Jonas Hahn |
 | [🍕 Building a Storefront with Solana Pay](https://github.com/Solana-Workshops/storefront-solana-pay) | A storefront dApp capable of taking payments of SPL tokens using the Solana Pay SDK and Transaction Requests | Joe Caulfield <br> Valentin Madrid |
 | [👛 Expense Tracker](https://github.com/Solana-Workshops/Expense-Tracker) | Tracker for categorizing on-chain expenses. | GitBolt |
+| [🏦 Expense Tracker](https://github.com/Solana-Workshops/Bank-Simulator) | Bank account simulator with interest returns using Clockwork. | GitBolt |
 | [🪙 Token Lender](https://github.com/Solana-Workshops/token-lender) | Token swapping platform mimicing a DEX. | Joe Caulfield |
 | [🎒 Ship Your First xNFT](https://github.com/Solana-Workshops/ship-an-xnft) | Building an xNFT and deploying it to Backpack | Valentin Madrid |
 
